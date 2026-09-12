@@ -1,0 +1,41 @@
+{
+  "type": "folder",
+  "id": "root",
+  "name": "NKT Database Root",
+  "children": [
+    {
+      "type": "folder",
+      "id": "folder_1789242716675",
+      "name": "YouTube Short Videos",
+      "thumbnail": "https://www.freepnglogos.com/uploads/youtube-shorts-logo-png/black-background-youtube-short-logo-png--20.jpg",
+      "children": [
+        {
+          "type": "video",
+          "id": "video_1789242963442",
+          "title": "Short Funny 🤣",
+          "thumbnail": "https://i.ytimg.com/vi/sMPwF-QDgQI/sddefault.jpg",
+          "url": "https://youtu.be/CMzctRZQIo0?si=EFenHS04yoQ58a_Q",
+          "duration": "8",
+          "format": "mp4"
+        },
+        {
+          "type": "folder",
+          "id": "folder_1789243138965",
+          "name": "Shorts Love Videos",
+          "thumbnail": "https://w0.peakpx.com/wallpaper/1001/902/HD-wallpaper-i-love-you-art-funny-heart-kiss-minion-quote-saying-smile-thumbnail.jpg",
+          "children": [
+            {
+              "type": "video",
+              "id": "video_1789243232244",
+              "title": "Shayer Love song",
+              "thumbnail": "https://w0.peakpx.com/wallpaper/1001/902/HD-wallpaper-i-love-you-art-funny-heart-kiss-minion-quote-saying-smile-thumbnail.jpg",
+              "url": "https://youtu.be/Au0PobopxYo?si=sh220KVqCn5At1JH",
+              "duration": "8",
+              "format": "mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
