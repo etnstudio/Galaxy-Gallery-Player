@@ -34,6 +34,30 @@
               "format": "mp4"
             }
           ]
+        },
+        {
+          "type": "folder",
+          "id": "folder_1789244749433",
+          "name": "ARY Live 🔴",
+          "thumbnail": "https://img.youtube.com/vi/0_riyxKLdxU/maxresdefault.jpg",
+          "children": [
+            {
+              "type": "video",
+              "id": "video_1789244832477",
+              "title": "ARY Live 🔴 News ",
+              "thumbnail": "https://img.youtube.com/vi/0_riyxKLdxU/maxresdefault.jpg",
+              "url": "https://www.youtube.com/live/5FW9ZVMR_7M?si=Qd0fg98VjE-9S6aP",
+              "duration": "86400",
+              "format": "youtube"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "id": "folder_1789245027558",
+          "name": "GEO News Live 🔴",
+          "thumbnail": "https://i.ytimg.com/vi/t3fvgmDDmdc/mqdefault.jpg",
+          "children": []
         }
       ]
     }
