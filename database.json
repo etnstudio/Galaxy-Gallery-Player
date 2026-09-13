@@ -103,6 +103,15 @@
           "format": "mp4"
         }
       ]
+    },
+    {
+      "type": "video",
+      "id": "video_1789287254399",
+      "title": "Drict YouTube Link Test",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/60584038eb68581eb517142cd2e75cf10fd54303bcd539d52d3dce7de09d04f5.jpg",
+      "url": "https://rr3---sn-hvcpapo3-aixz.googlevideo.com/videoplayback?expire=1789308612&ei=ZFqmaqiTHtCZ6dsPjNDTyAg&ip=2404%3A3100%3A19f4%3A66bc%3A18d4%3Aaa01%3A56cc%3A8564&id=o-ANX7blWFg-duWA1WzxM6282xVXGmgwV0eXLlK_rhz4cC&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=764&met=1789287012%2C&mh=Bb&mm=18%2C29&mn=sn-hvcpapo3-aixz%2Csn-hgn7rne7&ms=aub%2Crdu&mv=m&mvi=3&pl=44&rms=aub%2Caub&initcwndbps=270250&bui=AR3QkAmW5B3bhSwfaXIKylcESIqE7GF1ODmSuGQOZbd8Um8mcRKsqprQ1H_nudsnq29taTkb2DDXazek&spc=I-rgIdeZrUjYxSJhePTMKU2dVhAAkoTvSE3Wyi8rwYkLRe5MpKg9pRdOBAawN0P7x48&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=227342062&ratebypass=yes&dur=4965.250&lmt=1788801621014119&mt=1789286442&fvip=2&fexp=51565115%2C52135441&c=ANDROID&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIgK7jfDkhlO6QGcoazu2UuLsh5KhaIBcxETg3B1KueFYoCIQD9KyvaC3qPZdo2uaWNwjggLTGvJHtcQVbxyVnL2hogIw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAL5xY6b-nCM0MmHicYDDVVi86QihZQ1amBqUlL7Xe4EOAiAfNW3W4-kl1vbgrZxo5McfxDgreXn9abkwWKkpmHFxtQ%3D%3D&cpn=s266P8iKl6kztf7u&pot=",
+      "duration": "83",
+      "format": "mp4"
     }
   ]
 }
